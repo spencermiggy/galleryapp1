@@ -16,7 +16,7 @@
                         CornerRadius="100" Clicked="btn2_Clicked"/>
             </Grid>
             <StackLayout Margin="0,150,0,0">
-                <Image x:Name="image" Source="https://wallpaperaccess.com/full/30100.jpg" Aspect="AspectFit"/>
+                <Image x:Name="image" Source="https://i.pinimg.com/originals/31/a5/2c/31a52c10510246e334cbcbfc936cee8d.jpg" Aspect="AspectFit"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
