@@ -15,7 +15,7 @@
                         CornerRadius="100" Clicked="btn2_Clicked"/>
             </Grid>
             <StackLayout Margin="0,150,0,0">
-                <Image x:Name="image" Source="https://newevolutiondesigns.com/images/freebies/cool-wallpaper-3.jpg" Aspect="AspectFit"/>
+                <Image x:Name="image" Source="https://www.wallpapertip.com/wmimgs/3-38653_chou-iori-skin-mobile-legends-4k-mobile-legends.jpg" Aspect="AspectFit"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
