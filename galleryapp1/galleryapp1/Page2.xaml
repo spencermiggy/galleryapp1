@@ -15,7 +15,7 @@
                         CornerRadius="100" Clicked="btn2_Clicked"/>
             </Grid>
             <StackLayout Margin="0,150,0,0">
-                <Image x:Name="image" Source="https://i.ytimg.com/vi/bCyEstrdg4E/maxresdefault.jpg" Aspect="AspectFit"/>
+                <Image x:Name="image" Source="https://cdn.oneesports.gg/cdn-data/wp-content/uploads/2020/12/MLBB_Chou_Thunderfist_skin-1024x632.jpg" Aspect="AspectFit"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
